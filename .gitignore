@@ -1,0 +1,9 @@
+# DIRECTORIES
+
+__pycache__/
+build/
+dist/
+
+# FILES
+*.db
+*.spec
